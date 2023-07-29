@@ -1,0 +1,160 @@
+[
+    {
+        "name": "The Art City",
+        "Image": "https://i.ibb.co/W2QMLxC/book-7.png",
+        "author": "Louiso Bourgeois",
+        "genre": "Fantasy",
+        "published_year": 2023,
+        "price": 19.99
+    },
+    {
+        "name": "Music Rock",
+        "Image": "https://i.ibb.co/w7tNHY3/book-8.png",
+        "author": "Jeffery Boakye",
+        "genre": "Music Fiction",
+        "published_year": 2010,
+        "price": 14.50
+    },
+    {
+        "name": "Free Fall",
+        "Image": "https://i.ibb.co/25wTCSq/book-9.jpg",
+        "author": "Roderick Gordon",
+        "genre": "Romantic Thriller",
+        "published_year": 2010,
+        "price": 12.99
+    },
+    {
+        "name": "Dick Francis Shattered",
+        "Image": "https://i.ibb.co/80Whsty/book-6.jpg",
+        "author": "Dick Francis",
+        "genre": "Mystery",
+        "published_year": 2000,
+        "price": 9.95
+    },
+    {
+        "name": "Boring Girls",
+        "Image": "https://i.ibb.co/5MXhttF/book-11.jpg",
+        "author": "Sara Taylor",
+        "genre": "Young Adult Fiction",
+        "published_year": 2015,
+        "price": 15.25
+    },
+    {
+        "name": "Thanks In Everything",
+        "Image": "https://i.ibb.co/Xz8yCt4/book-12.png",
+        "author": "Jan Dargatz",
+        "genre": "Contemporary Fiction",
+        "published_year": 2013,
+        "price": 11.75
+    },
+    {
+        "name": "Black History Month",
+        "Image": "https://i.ibb.co/7t20p3f/book-15.png",
+        "author": "Lorraine Hansberry",
+        "genre": "Historical Fiction",
+        "published_year": 1965,
+        "price": 8.50
+    },
+    {
+        "name": "The Giver",
+        "Image": "https://i.ibb.co/fHT1xgT/arrival-1.jpg",
+        "author": "Lois Lowry",
+        "genre": "Dystopian Fiction",
+        "published_year": 1993,
+        "price": 10.99
+    },
+    {
+        "name": "The Wright Brothers",
+        "Image": "https://i.ibb.co/gSV5jLD/arrival-2.jpg",
+        "author": "David McCullough",
+        "genre": "Historical Fiction",
+        "published_year": 2015,
+        "price": 13.25
+    },
+    {
+        "name": "Radical Gardening",
+        "Image": "https://i.ibb.co/V2wHgVx/arrival-3.jpg",
+        "author": "Frances Lincoln",
+        "genre": "Non-Fiction",
+        "published_year": 2011,
+        "price": 16.00
+    },
+    {
+        "name": "Red Queen",
+        "author": "Victoria Aveyard",
+        "genre": "Young Adult Fantasy",
+        "published_year": 2015,
+        "price": 9.99
+    },
+    {
+        "name": "To Kill A Mockingbird",
+        "Image": "https://i.ibb.co/KXHjWNb/arrival-5.jpg",
+        "author": "Harper Lee",
+        "genre": "Classic Fiction",
+        "published_year": 1960,
+        "price": 7.50
+    },
+    {
+        "name": "Harry Potter",
+        "Image": "https://i.ibb.co/gr3j7BF/arrival-6.jpg",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "published_year": 2003,
+        "price": 21.99
+    },
+    {
+        "name": "Heroes Of Olympus",
+        "Image": "https://i.ibb.co/ZdZLShB/arrival-7.jpg",
+        "author": "Rick Riordan",
+        "genre": "Young Adult Fantasy",
+        "published_year": 2012,
+        "price": 14.95
+    },
+    {
+        "name": "Rangers Apprentice",
+        "author": "John Flanagan",
+        "genre": "Young Adult Fantasy",
+        "published_year": 2004,
+        "price": 12.75
+    },
+    {
+        "name": "Percy Jackson And The Lightning Thief",
+        "Image": "https://i.ibb.co/bKkN2Ny/arrival-10.jpg",
+        "author": "Rick Riordan",
+        "genre": "Young Adult Fantasy",
+        "published_year": 2005,
+        "price": 10.50
+    },
+    {
+        "name": "Diary Of A Wimpy Kid",
+        "Image": "https://i.ibb.co/PN1nwcH/arrival-8.webp",
+        "author": "Jeff Kinney",
+        "genre": "Children's Fiction",
+        "published_year": 2004,
+        "price": 8.99
+    },
+    {
+        "name": "CatherineHouse",
+        "Image": "https://i.ibb.co/9GGFsdc/blog-2.jpg",
+        "author": "Elisabeth Thomas",
+        "genre": "Gothic Fiction",
+        "published_year": 2020,
+        "price": 17.25
+    },
+    {
+        "name": "The Switch",
+        "Image": "https://i.ibb.co/ccpqCSS/blog-3.jpg",
+        "author": "Beth O'Leary",
+        "genre": "Contemporary Fiction",
+        "published_year": 2020,
+        "price": 15.99
+    },
+    {
+        "name": "Clever Lands",
+        "Image": "https://i.ibb.co/Np7fwNs/book-5.jpg",
+        "author": "Lucy Crehan",
+        "genre": "Non-Fiction",
+        "published_year": 2016,
+        "price": 11.50
+    }
+]
